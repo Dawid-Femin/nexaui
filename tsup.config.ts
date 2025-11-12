@@ -44,6 +44,10 @@ export default defineConfig([
       "@emotion/styled",
       "react-easy-crop",
     ],
+    esbuildOptions(options) {
+      options.jsx = "automatic";
+      options.jsxImportSource = "react";
+    },
     outDir: "dist",
   },
 ]);
