@@ -13,24 +13,24 @@
       "require": "./dist/index.js"
     },
     "./Alert": {
-      "types": "./dist/Alert/index.d.ts",
-      "import": "./dist/Alert/index.js"
+      "types": "./dist/MuiComponents/Alert/Alert.d.ts",
+      "import": "./dist/MuiComponents/Alert/Alert.js"
     },
     "./Button": {
-      "types": "./dist/Button/index.d.ts",
-      "import": "./dist/Button/index.js"
+      "types": "./dist/MuiComponents/Button/Button.d.ts",
+      "import": "./dist/MuiComponents/Button/Button.js"
     },
     "./Breadcrumbs": {
-      "types": "./dist/Breadcrumbs/index.d.ts",
-      "import": "./dist/Breadcrumbs/index.js"
+      "types": "./dist/MuiComponents/Breadcrumbs/Breadcrumbs.d.ts",
+      "import": "./dist/MuiComponents/Breadcrumbs/Breadcrumbs.js"
     },
     "./Cropper": {
-      "types": "./dist/Cropper/index.d.ts",
-      "import": "./dist/Cropper/index.js"
+      "types": "./dist/Components/Cropper/index.d.ts",
+      "import": "./dist/Components/Cropper/index.js"
     },
     "./theme": {
-      "types": "./dist/theme.d.ts",
-      "import": "./dist/theme.js"
+      "types": "./dist/theme/theme.d.ts",
+      "import": "./dist/theme/theme.js"
     },
     "./package.json": "./package.json"
   },
