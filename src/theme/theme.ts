@@ -48,3 +48,5 @@ export const darkTheme = createTheme({
     },
   },
 });
+
+export const defaultTheme = createTheme({});
