@@ -1,0 +1,33 @@
+src/
+stories/
+.storybook/
+
+# Testy
+**/*.test.tsx
+**/*.test.ts
+**/*.spec.tsx
+**/*.spec.ts
+
+# Storybook
+*.stories.tsx
+*.stories.ts
+storybook-static/
+
+# Config
+tsconfig.json
+tsup.config.ts
+vite.config.ts
+vitest.config.ts
+.prettierrc
+.eslintrc
+.eslintrc.json
+
+# Git
+.git/
+.gitignore
+
+# Inne
+node_modules/
+.DS_Store
+*.log
+coverage/
