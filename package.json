@@ -1,6 +1,6 @@
 {
   "name": "nexa-ui-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React UI components library with Material-UI",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
